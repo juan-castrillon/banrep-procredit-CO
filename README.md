@@ -19,7 +19,7 @@ You need to have installed:
 
 1. Download the .py file
 2. Open in editor, IDE or notepad
-3. Look for the commented fields and input your Username and Password
+3. Look for the commented fields (lines 29 and 32) and input your Username and Password
 4. Run the file!
 
 # To make it faster
