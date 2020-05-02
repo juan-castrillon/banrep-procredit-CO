@@ -7,6 +7,13 @@ Unfortunately, ProCredit web banking portal lacks a lot and there is no way to e
 
 This Python application, allows to check balance from your account in COP with just a click, and also convert your balance into EUR (Using the rate from BANREP and considering the 5000COP withdrawal charge) so you know exactly how much to withdraw or when the money is unlocked.
 
+# Before Using
+
+You need to have installed:
+1. Python
+2. Selenium (Python Library)
+3. WebDriver Manager (Python Library)
+
 
 # To use it
 
